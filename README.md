@@ -98,10 +98,6 @@ Looking for **junior developer** or **IT support** roles.
 </div>
 <!-- ===== END HIDDEN BLOCK ===== -->
 
-<!-- Optional: tiny caption or note below -->
-<p align="center"><sub>Click any badge to open the repository.</sub></p>
-
-</div>
 
 ---
 
