@@ -67,7 +67,6 @@ Looking for **junior developer** or **IT support** roles.
 - 🎓 Studying at **École 42 Lausanne** (Back-end focus: C/C++)
 - 🛠️ Exposure to **Docker**, **Linux**, and systems programming
 - 💬 Languages: Spanish (Native), English (C2), French (C1)
-- 📫 Reach me at **your.email@example.com**
 
 ---
 
