@@ -11,8 +11,16 @@
 Motivated developer studying at **École 42 Lausanne**. Strong focus on **C/C++**, with exposure to **Docker**, **Linux**, and systems programming.  
 Looking for **junior developer** or **IT support** roles.  
 
+---
 
-<h3 align="left" id="projects-at">Projects at:</h3>
+## Projects at:
+
+<p align="center">
+  <a href="https://42lausanne.ch/" target="_blank" rel="noreferrer">
+    <img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg"
+         alt="42 Lausanne" height="55" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -84,11 +92,9 @@ Looking for **junior developer** or **IT support** roles.
 
 </div>
 
-
 ---
 
 ## Programming Languages
-<!-- Bigger icons: 56x56 -->
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="56" height="56" />
@@ -113,7 +119,6 @@ Looking for **junior developer** or **IT support** roles.
 ---
 
 ## Tools & Platforms
-<!-- Standard icons: 40x40 -->
 <p align="center">
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -127,7 +132,7 @@ Looking for **junior developer** or **IT support** roles.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker (basic)" width="40" height="40" />
   </a>
-  <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Nico-Ry" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 </p>
@@ -149,14 +154,9 @@ Looking for **junior developer** or **IT support** roles.
   </a>
 </p>
 
-
 ---
 
-<!-- Optional: GitHub stats (replace your-username). Delete this block if you prefer minimal. -->
-<!-- GitHub stats section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Ry&layout=compact&hide_title=false&hide_border=true&theme=tokyonight" height="200" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nico-Ry&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  
 </p>
-
