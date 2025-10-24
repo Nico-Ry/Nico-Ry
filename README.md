@@ -12,6 +12,77 @@ Motivated developer studying at **École 42 Lausanne**. Strong focus on **C/C++*
 Looking for **junior developer** or **IT support** roles.  
 
 
+<h3 align="left" id="projects-at">Projects at:</h3>
+
+<div align="center">
+
+  <!-- 1) Libft — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Libft" title="Libft">
+    <img alt="Libft (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/libftn.png" />
+  </a>
+
+  <!-- 2) ft_printf — no bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/ft_printf" title="ft_printf">
+    <img alt="ft_printf (no bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ft_printfm.png" />
+  </a>
+
+  <!-- 3) Get_Next_Line — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Get_Next_Line" title="Get_Next_Line">
+    <img alt="Get_Next_Line (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/get_next_linen.png" />
+  </a>
+
+  <!-- 4) fractol — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/fractol" title="fractol">
+    <img alt="fractol (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/fract-oln.png" />
+  </a>
+
+  <!-- 5) push_swap_commented — no bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/push_swap_commented" title="push_swap_commented">
+    <img alt="push_swap (no bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/push_swapm.png" />
+  </a>
+
+  <!-- 6) minitalk — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/minitalk" title="minitalk">
+    <img alt="minitalk (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minitalkn.png" />
+  </a>
+
+  <!-- 7) Minishell — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Minishell" title="Minishell">
+    <img alt="Minishell (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minishelln.png" />
+  </a>
+
+  <!-- 8) Philosophers — no bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Philosophers" title="Philosophers">
+    <img alt="Philosophers (no bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/philosophersm.png" />
+  </a>
+
+  <!-- 9) MiniRT — with bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/MiniRT" title="MiniRT">
+    <img alt="MiniRT (bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minirtn.png" />
+  </a>
+
+  <!-- 10) CPP Modules — no bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/CPP_Modules" title="CPP Modules">
+    <img alt="CPP Modules (no bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/cppm.png" />
+  </a>
+
+  <!-- 11) Inception — no bonus -->
+  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Inception" title="Inception">
+    <img alt="Inception (no bonus)" height="100"
+         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/inceptionm.png" />
+  </a>
+
+</div>
 
 
 ---
