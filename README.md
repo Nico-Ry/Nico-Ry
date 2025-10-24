@@ -142,15 +142,18 @@ Looking for **junior developer** or **IT support** roles.
 ## Certifications
 <p align="center">
   <a href="https://www.axelos.com/certifications/itil-service-management" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/ITIL_logo.svg" alt="ITIL v4 Foundation" height="40" />
+    <img src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ITIL-v4.png"
+         alt="ITIL v4 Foundation" height="45" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://designsprintkit.withgoogle.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Design Sprint" height="40" />
+    <img src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/google-design-sprint.png"
+         alt="Google Design Sprint" height="45" />
   </a>
   <br/>
-  <sub>ITIL v4 Foundation (2025)   |   Google Design Sprint Methodology</sub>
+  <sub>ITIL v4 Foundation (2025) &nbsp;|&nbsp; Google Design Sprint</sub>
 </p>
+
 
 ---
 
