@@ -139,6 +139,21 @@ Looking for **junior developer** or **IT support** roles.
 
 ---
 
+## Certifications
+<p align="center">
+  <a href="https://www.axelos.com/certifications/itil-service-management" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/ITIL_logo.svg" alt="ITIL v4 Foundation" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://designsprintkit.withgoogle.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Design Sprint" height="40" />
+  </a>
+  <br/>
+  <sub>ITIL v4 Foundation (2025)   |   Google Design Sprint Methodology</sub>
+</p>
+
+---
+
 ## About me
 - 🎓 Studying at **École 42 Lausanne** (Back-end focus: C/C++)
 - 🛠️ Exposure to **Docker**, **Linux**, and systems programming
