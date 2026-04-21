@@ -38,7 +38,7 @@ Backend-focused developer at **École 42 Lausanne** with strong foundations in:
 
 ---
 
-### 🔹 [MiniRT](https://github.com/Nico-Ry/42-Common-Core/tree/main/MiniRT)
+### 🔹 [MiniRT](https://github.com/Nico-Ry/42-Common-Core/tree/main/MiniRt)
 **3D Ray Tracing Engine (C)**  
 - Built a rendering engine supporting lighting, shadows, and camera systems  
 - Implemented geometric primitives and ray-object intersection logic  
