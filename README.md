@@ -1,178 +1,165 @@
 # Hi, I'm Nico 👋
-<!--
-  Profile README for your-username
-  - Programming Languages: 56x56 icons
-  - Tools & Platforms: 40x40 icons
-  Replace your-username, LinkedIn, and email below.
--->
 
-**Junior Developer** — C · C++ · Linux
+**Backend Developer — Systems & API Engineering**
 
-Motivated developer studying at **École 42 Lausanne**. Strong focus on **C/C++**, with exposure to **Docker**, **Linux**, and systems programming.
-Looking for **junior developer** or **IT support** roles.
+Backend-focused developer at **École 42 Lausanne** with strong foundations in:
+- systems programming (C/C++)
+- networking & concurrency
+- backend architecture (NestJS, PostgreSQL, Docker)
 
 ---
 
-## Projects at:
+## 🚀 42 Common Core Projects
 
 <p align="center">
-  <a href="https://42lausanne.ch/" target="_blank" rel="noreferrer">
-    <img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg"
-         alt="42 Lausanne" height="100" />
+  <a href="https://42lausanne.ch/" target="_blank">
+    <img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" height="80" />
   </a>
 </p>
 
+---
+
+## 🧠 Highlight Projects
+
+### 🔹 [ft_transcendence](https://github.com/Nico-Ry/42-Common-Core/tree/main/ft_transcendence)
+**Full-stack web application (Backend focus)**  
+- Designed a **scalable backend architecture** using NestJS, PostgreSQL, Docker, and Nginx  
+- Implemented **authentication system** and API protection mechanisms (JWT + OAuth2)  
+- Built REST APIs and database models (Prisma ORM)  
+- Worked in a **team of 5 using Git workflows (branches, PRs, reviews)**  
+
+---
+
+### 🔹 [Webserv](https://github.com/Nico-Ry/42-Common-Core/tree/main/Webserv)
+**HTTP/1.1 server in C++**  
+- Built a **non-blocking server** using `poll()`  
+- Implemented request parsing, routing, file uploads, and CGI  
+- Managed **concurrent connections and low-level networking**  
+
+---
+
+### 🔹 [Minishell](https://github.com/Nico-Ry/42-Common-Core/tree/main/Minishell)
+**Unix shell recreation**  
+- Implemented pipes, redirections, and process handling  
+- Managed file descriptors and signals  
+- Recreated core bash behavior  
+
+---
+
+### 🔹 [Philosophers](https://github.com/Nico-Ry/42-Common-Core/tree/main/Philosophers)
+**Concurrency & synchronization**  
+- Solved the Dining Philosophers problem  
+- Used threads and mutexes to prevent deadlocks  
+- Handled race conditions and timing issues  
+
+---
+
+### 🔹 [Inception](https://github.com/Nico-Ry/42-Common-Core/tree/main/Inception)
+**Docker infrastructure project**  
+- Built a **multi-container architecture**  
+- Configured Nginx, MariaDB, and WordPress  
+- Managed networking, volumes, and deployment  
+
+---
+
+## 🏅 All Projects
+
 <div align="center">
+<!-- ft_transcendence (bonus) -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/ft_transcendence">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ft_transcendencem.png" />
+</a>
 
-  <!-- 1) Libft — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Libft" title="Libft">
-    <img alt="Libft (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/libftm.png" />
-  </a>
+<!-- webserv (bonus) -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Webserv">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/webservm.png" />
+</a>
 
-  <!-- 2) ft_printf — no bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/ft_printf" title="ft_printf">
-    <img alt="ft_printf (no bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ft_printfn.png" />
-  </a>
+<!-- inception -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Inception">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/inceptionn.png" />
+</a>
 
-  <!-- 3) Get_Next_Line — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Get_Next_Line" title="Get_Next_Line">
-    <img alt="Get_Next_Line (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/get_next_linem.png" />
-  </a>
+<!-- cpp -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/CPP_Modules">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/cppn.png" />
+</a>
 
-  <!-- 4) fractol — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/fractol" title="fractol">
-    <img alt="fractol (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/fract-olm.png" />
-  </a>
+<!-- minirt -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/MiniRT">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minirtm.png" />
+</a>
 
-  <!-- 5) push_swap_commented — no bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/push_swap_commented" title="push_swap_commented">
-    <img alt="push_swap (no bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/push_swapn.png" />
-  </a>
+<!-- push_swap -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/push_swap_commented">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/push_swapn.png" />
+</a>
 
-  <!-- 6) minitalk — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/minitalk" title="minitalk">
-    <img alt="minitalk (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minitalkm.png" />
-  </a>
+<!-- minitalk -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/minitalk">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minitalkm.png" />
+</a>
 
-  <!-- 7) Minishell — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Minishell" title="Minishell">
-    <img alt="Minishell (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minishellm.png" />
-  </a>
+<!-- minishell -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Minishell">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minishellm.png" />
+</a>
 
-  <!-- 8) Philosophers — no bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Philosophers" title="Philosophers">
-    <img alt="Philosophers (no bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/philosophersn.png" />
-  </a>
+<!-- philosophers -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Philosophers">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/philosophersn.png" />
+</a>
 
-  <!-- 9) MiniRT — with bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/MiniRT" title="MiniRT">
-    <img alt="MiniRT (bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/minirtm.png" />
-  </a>
+<!-- fractol -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/fractol">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/fract-olm.png" />
+</a>
 
-  <!-- 10) CPP Modules — no bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/CPP_Modules" title="CPP Modules">
-    <img alt="CPP Modules (no bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/cppn.png" />
-  </a>
+<!-- get_next_line -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Get_Next_Line">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/get_next_linem.png" />
+</a>
 
-  <!-- 11) Inception — no bonus -->
-  <a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Inception" title="Inception">
-    <img alt="Inception (no bonus)" height="100"
-         src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/inceptionn.png" />
-  </a>
+<!-- ft_printf -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/ft_printf">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ft_printfn.png" />
+</a>
+
+<!-- Libft -->
+<a href="https://github.com/Nico-Ry/42-Common-Core/tree/main/Libft">
+  <img height="100" src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/libftm.png" />
+</a>
+
+
 
 </div>
 
 ---
 
-## Programming Languages
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python (basic)" width="65" height="65" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="SQL (basic)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL (basic)" width="65" height="65" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+**Languages**  
+C · C++ · TypeScript · SQL  
+
+**Backend & Infra**  
+NestJS · PostgreSQL · Docker · Nginx · Linux  
+
+**Concepts**  
+Networking · HTTP · Concurrency · Multithreading · API Security  
+
+**Security & Auth**  
+JWT · OAuth2 · Authentication flows · Secure API design  
 
 ---
 
-## Tools & Platforms
+## 🌐 Connect
+
 <p align="center">
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  </a>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="50" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker (basic)" width="50" height="50" />
-  </a>
-  <a href="https://github.com/Nico-Ry" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  </a>
-</p>
-
----
-
-## Certifications
-<p align="center">
-  <a href="https://www.axelos.com/certifications/itil-service-management" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/ITIL-v4.png"
-         alt="ITIL v4 Foundation" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://designsprintkit.withgoogle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Nico-Ry/Nico-Ry/main/assets/projects/badges/google-design-sprint.png"
-         alt="Google Design Sprint" height="60" />
-  </a>
-  <br/>
-  <sub>ITIL v4 Foundation (2025) &nbsp;|&nbsp; Google Design Sprint</sub>
-</p>
-
-
----
-
-## About me
-- 🎓 Studying at **École 42 Lausanne** (Back-end focus: C/C++)
-- 🛠️ Exposure to **Docker**, **Linux**, and systems programming
-- 💬 Languages: Spanish (Native), English (C2), French (C1)
-
----
-
-## Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-ryser/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nicolas-ryser/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="Nicolas Ryser LinkedIn" height="80" width="80" />
+         height="70" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Ry&layout=compact&hide_title=false&hide_border=true&theme=tokyonight" height="200" alt="Top Languages" />
